@@ -1,10 +1,4 @@
-import {
-  createContext,
-  ReactNode,
-  useEffect,
-  useState,
-  useReducer,
-} from "react";
+import { createContext, ReactNode, useEffect, useReducer } from "react";
 
 import { CooffeCardProps } from "../pages/Home/CoffeeCard";
 
